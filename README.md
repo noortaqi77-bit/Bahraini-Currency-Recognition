@@ -16,3 +16,6 @@ YOLO26 was used to train an object detection model that predicts the currency cl
 
 The model was evaluated on the test set using the following metrics:
 
+
+
+These metrics measure the correctness of detections, the proportion of actual objects detected, and the model's localization performance at different IoU thresholds.
