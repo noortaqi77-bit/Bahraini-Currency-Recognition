@@ -2,6 +2,9 @@
 This project focuses on detecting and identifying Bahraini currency using YOLO26, a deep learning model for object detection.
 
 The model recognizes different Bahraini currency denominations and locates them in images by drawing bounding boxes around detected objects.
+#### App :
+https://bahraini-currency.streamlit.app/
+
 
 ### Dataset
 The dataset was collected by our team. It contains images of Bahraini banknotes and coins across 10 classes:
