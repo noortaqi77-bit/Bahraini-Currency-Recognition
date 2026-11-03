@@ -7,9 +7,11 @@ https://bahraini-currency.streamlit.app/
 
 
 ### Dataset
-The dataset was collected by our team. It contains images of Bahraini banknotes and coins across 10 classes:
+The dataset was collected. It contains images of Bahraini banknotes and coins across 10 classes:
 
 5 fils, 10 fils, 25 fils, 50 fils, 100 fils, 0.5 BD, 1 BD, 5 BD, 10 BD, and 20 BD.
+
+each class contain 50 images or more.
 
 ### Model
 
